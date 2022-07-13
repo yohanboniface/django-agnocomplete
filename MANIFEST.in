@@ -1,4 +1,0 @@
-recursive-include agnocomplete *
-recursive-include docs *
-recursive-exclude docs/_build *
-global-exclude *.pyc
